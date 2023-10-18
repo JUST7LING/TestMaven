@@ -12,6 +12,8 @@
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
-<br> 안녕하세요! <br> <img src = "image/clapkid.gif" alt = "못찾음">
+<br> 안녕하세요! 
+<br> <img src = "image/clapkid.gif" alt = "못찾음">
+<br> <img src = "image/clapclapclapkid.gif" alt = "ㅜㅜ">
 </body>
 </html>
